@@ -3,6 +3,6 @@
   "target": {
    "namespace": "android_app",
     "package_name": "com.dhanraj.myweddingapp",
-    "sha256_cert_fingerprints":["42:b8:b5:1e:2e:02:13:db:d6:14:79:f5:7a:eb:8b:a5:ea:26:45:00:d6:7c:aa:7c:03:fa:f7:20:f7:b3:25:92"]
+    "sha256_cert_fingerprints":["42:B8:B5:1E:2E:02:13:DB:D6:14:79:F5:7A:EB:8B:A5:EA:26:45:00:D6:7C:AA:7C:03:FA:F7:20:F7:B3:25:92"]
   }
 }] 
