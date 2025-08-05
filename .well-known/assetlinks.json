@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+   "namespace": "android_app",
+    "package_name": "com.dhanraj.myweddingapp",
+    "sha256_cert_fingerprints":["42:b8:b5:1e:2e:02:13:db:d6:14:79:f5:7a:eb:8b:a5:ea:26:45:00:d6:7c:aa:7c:03:fa:f7:20:f7:b3:25:92"]
+  }
+}] 
